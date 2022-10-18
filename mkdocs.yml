@@ -7,7 +7,7 @@ plugins:
   - mkdocstrings
 
 nav:
-  - Calculation Docs2 : index.md
+  - Calculation Docs45 : index.md
   - tutorials.md
   - how-to-guides.md
   - reference.md
